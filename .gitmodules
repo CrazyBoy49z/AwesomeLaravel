@@ -1,3 +1,6 @@
 [submodule "laravel-best-practices"]
 	path = laravel-best-practices
 	url = https://github.com/alexeymezenin/laravel-best-practices
+[submodule "lang"]
+	path = lang
+	url = https://github.com/Laravel-Lang/lang
